@@ -185,9 +185,3 @@ While Linear Regression provides a good baseline, future improvements may includ
 - Hyperparameter tuning
 - Additional lag features
 
----
-
-## 📌 Project Status
-
-✅ Completed successfully  
-✅ All assignment requirements satisfied  
