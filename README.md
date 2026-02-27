@@ -1,5 +1,5 @@
 # 📊 Time Series Data Analysis and Forecasting  
-## Task 5 – Machine Learning Forecasting Project  
+## Machine Learning Forecasting Project  
 
 ---
 
